@@ -1,0 +1,14 @@
+.home-header{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    border-bottom: 1px solid rgba(47, 0, 121, 0.1)
+}
+
+.header-title {
+    color: #2F0079;
+    font-size: 21px;
+    font-family: 'Roboto', italic;
+    margin-left: 20px;
+    margin-top: 18px;
+}
